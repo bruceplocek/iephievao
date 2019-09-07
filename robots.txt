@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eizuulootu.lilyvirginiadesign.com/sitemap.xml
